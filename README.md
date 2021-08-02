@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p>
+  <a href="https://github.com/bvp?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvp&hide=php,html,css&layout=compact&langs_count=15" height="170"/>
+  </a>
+  <a href="https://about.me/bvp">
+    <img src="https://github-readme-stats.vercel.app/api?username=bvp&show_icons=true" width="425" height="170"/>
+  </a>
+</p>
+
 <!--
 **bvp/bvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
